@@ -1,4 +1,4 @@
-package com.avelvi.hibernate.pojo;
+package com.avelvi.hibernate.chapter01.pojo;
 
 public class Message {
 

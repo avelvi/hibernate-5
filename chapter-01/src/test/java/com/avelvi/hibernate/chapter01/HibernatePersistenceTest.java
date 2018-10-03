@@ -1,6 +1,6 @@
-package com.avelvi.hibernate;
+package com.avelvi.hibernate.chapter01;
 
-import com.avelvi.hibernate.entities.Message;
+import com.avelvi.hibernate.chapter01.entities.Message;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

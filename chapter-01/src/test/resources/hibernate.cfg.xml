@@ -14,7 +14,7 @@
         <property name="show_sql">true</property>
         <!--  Drop and re-create the database schema on startup  -->
         <property name="hbm2ddl.auto">create-drop</property>
-        <mapping class="com.avelvi.hibernate.entities.Message" />
+        <mapping class="com.avelvi.hibernate.chapter01.entities.Message" />
     </session-factory>
 
 </hibernate-configuration>

@@ -1,4 +1,4 @@
-package com.avelvi.hibernate.entities;
+package com.avelvi.hibernate.chapter01.entities;
 
 
 import javax.persistence.Column;

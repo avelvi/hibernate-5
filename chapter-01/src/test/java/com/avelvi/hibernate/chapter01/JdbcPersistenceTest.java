@@ -1,13 +1,12 @@
-package com.avelvi.hibernate;
+package com.avelvi.hibernate.chapter01;
 
-import com.avelvi.hibernate.entities.Message;
+import com.avelvi.hibernate.chapter01.entities.Message;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
 import java.sql.*;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
